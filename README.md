@@ -30,3 +30,9 @@ createKey: function (req, res) {
   },
 
 ```
+
+# Dependencies 
+
+1. [sha1] (https://www.npmjs.com/package/sha1)
+2. [request] (https://www.npmjs.com/package/request)
+2. [php2js] (yet to come)
