@@ -11,8 +11,8 @@ var sha1 = require('sha1');
 var php2js = require('php2js');
 var APIConfig = {
 		url: 'http://api.jwplatform.com/v1/videos/create',
-		key: 'nX1xGB0G',
-		secret: 'm1APvynrzR1hsvL66I3gSRCy',
+		key: '',/*Here goes your key*/
+		secret: '',/*Here goes your secret*/
 		format: 'json',
 		kit: 'php-1.4'
 	};
