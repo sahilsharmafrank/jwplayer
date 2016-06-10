@@ -19,6 +19,7 @@
   "author": "Sahil Sharma",
   "license": "ISC",
   "dependencies": {
+    "php2js": "^1.0.0",
     "request": "^2.67.0",
     "sha1": "^1.1.1"
   }
