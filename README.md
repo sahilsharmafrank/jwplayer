@@ -9,6 +9,7 @@ It is an conversion of php API.
 
 Usage : 
 
+```javascript
 var jwplayer = require('jwplayer');
 
 /**
@@ -28,3 +29,4 @@ createKey: function (req, res) {
     });
   },
 
+```
