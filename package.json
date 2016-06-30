@@ -1,6 +1,6 @@
 {
   "name": "jwplayer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "'jwplayer node js module to make request to jwplayer platform API'",
   "main": "index.js",
   "scripts": {
