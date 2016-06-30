@@ -11,11 +11,11 @@ Usage :
 
 #Step 1
 
-Download the php kit of jwplayer and in this kit you will find an js with name 
+Download the php kit of jwplayer from (http://support-static.jwplayer.com/API/php-api-kit-20151013.zip) and in this kit you will find an js with name 
   *php-api-examples-20151013/upload/botr/upload.js
 
 #Step 2
-Inclide the upload.js in your project
+Include the upload.js in your project
 
 #Step 3
 In your angular controller do something like this
@@ -88,6 +88,9 @@ var filename;
 }]);
 
 ```
+
+#Step 4 
+On your server write this function
 
 ```javascript
 var jwplayer = require('jwplayer');
