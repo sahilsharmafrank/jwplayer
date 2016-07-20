@@ -118,4 +118,4 @@ createKey: function (req, res) {
 
 1. [sha1] (https://www.npmjs.com/package/sha1)
 2. [request] (https://www.npmjs.com/package/request)
-2. [php2js] (https://www.npmjs.com/package/php2js)
+2. [php2js] (https://www.npmjs.com/package/php2js).
